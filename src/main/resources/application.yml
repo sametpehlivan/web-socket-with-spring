@@ -1,0 +1,13 @@
+server:
+  port: 9098
+spring:
+  application:
+    name: wsocket
+  data:
+    mongodb:
+      username: root
+      password: toor1234
+      host: localhost
+      port: 27018
+      database: chat-app
+      authentication-database: admin
